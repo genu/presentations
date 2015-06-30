@@ -1,6 +1,9 @@
 ## Overview
 Introduction to angular testing
 
+## Files [simple-frontend-boilerplate](https://github.com/genu/simple-frontend-boilerplate/tree/angular-testing-presentation)
+Presentation: [Click Here](http://slides.com/genuchelu/angular-testing)
+
 ## Outline
 - About Me
 - Game plan
@@ -8,7 +11,6 @@ Introduction to angular testing
   - Types of tests
   - Testing specific to angular applications
   - Tooling
-    - CI
 - High level view of testing
   - Why is testing important?
   - Benefits of writing unit tests
