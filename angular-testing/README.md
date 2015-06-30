@@ -1,8 +1,13 @@
 ## Overview
 Introduction to angular testing
 
-## Files [simple-frontend-boilerplate](https://github.com/genu/simple-frontend-boilerplate/tree/angular-testing-presentation)
-Presentation: [Click Here](http://slides.com/genuchelu/angular-testing)
+## Resources
+- [simple-frontend-boilerplate](https://github.com/genu/simple-frontend-boilerplate/tree/angular-testing-presentation)
+- [Presentation](http://slides.com/genuchelu/angular-testing)
+
+## More information
+  - [Official Guides](https://docs.angularjs.org/guide/unit-testing)
+  - [Full-Spectrum Testing](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
 
 ## Outline
 - About Me
@@ -64,7 +69,3 @@ Presentation: [Click Here](http://slides.com/genuchelu/angular-testing)
     - Automate your unit tests with hooks
       - When accept code into repo only when tests pass.
       - Run tests when running a build
-
-- More information
-  - [Official Guides](https://docs.angularjs.org/guide/unit-testing)
-  - [Full-Spectrum Testing](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
